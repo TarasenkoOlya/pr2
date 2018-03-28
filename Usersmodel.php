@@ -11,6 +11,6 @@ class Usersmodel extends CI_Model
 	{
 		$query=$this->db->get('users');
 		return $query->result_array();
-		//11111111
+		//git pr2
 	}
 }
