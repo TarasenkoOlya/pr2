@@ -15,7 +15,7 @@ class Homemodel extends CI_Model
 		
 		return $query->result_array();
 
-
+		//git pr2
 
 	}
 
